@@ -1,5 +1,6 @@
 // worker.c
-// Ahmed Ahmed CS4760 9/28/23
+// Ahmed Ahmed CS4760 12/17/23
+// Project 2 (REDO)
 
 #include <stdio.h>
 #include <stdlib.h>
